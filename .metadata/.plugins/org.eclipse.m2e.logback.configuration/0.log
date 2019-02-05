@@ -1,0 +1,32 @@
+2019-02-05 16:21:43,199 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Goodwill:Goodwill:0.0.1-SNAPSHOT @ E:\Users\javeney\Documents\workspace_java\Goodwill\Goodwill\pom.xml.
+2019-02-05 16:21:43,684 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 16:21:43,702 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2019-02-05 16:21:43,739 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 16:21:43,746 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Users\javeney\Documents\workspace_java\Goodwill\Goodwill\src\test\resources
+2019-02-05 16:21:45,038 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Goodwill:Goodwill:0.0.1-SNAPSHOT @ E:\Users\javeney\Documents\workspace_java\Goodwill\Goodwill\pom.xml.
+2019-02-05 16:21:45,757 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 16:21:45,767 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2019-02-05 16:21:45,795 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 16:21:45,801 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Users\javeney\Documents\workspace_java\Goodwill\Goodwill\src\test\resources
+2019-02-05 16:27:49,239 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2019-02-05 16:28:26,979 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 16:28:26,990 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2019-02-05 16:28:26,996 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 16:28:27,002 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Users\javeney\Documents\workspace_java\Goodwill\Goodwill\src\test\resources
+2019-02-05 16:37:34,293 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 16:37:34,305 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2019-02-05 16:37:34,308 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 16:37:34,315 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Users\javeney\Documents\workspace_java\Goodwill\Goodwill\src\test\resources
+2019-02-05 17:08:53,129 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2019-02-05 17:09:07,724 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 17:09:07,735 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2019-02-05 17:09:07,740 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 17:09:07,747 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Users\javeney\Documents\workspace_java\Goodwill\Goodwill\src\test\resources
+2019-02-05 17:09:57,656 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 17:09:57,665 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2019-02-05 17:09:57,668 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 17:09:57,674 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Users\javeney\Documents\workspace_java\Goodwill\Goodwill\src\test\resources
+2019-02-05 17:42:41,325 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 17:42:41,333 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2019-02-05 17:42:41,335 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-02-05 17:42:41,341 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Users\javeney\Documents\workspace_java\Goodwill\Goodwill\src\test\resources
