@@ -13,7 +13,7 @@ import java.sql.CallableStatement;
 public class DatabaseController {
 	String userName = "root";
 	//Don't forget to change to actual password before running!!!
-	String password = "@Rtisan8319";
+	String password = "password";
 	String url = "jdbc:mysql://localhost/sys?";
 	String database = "sys";
 	Connection conn;
